@@ -39,7 +39,7 @@ export const SubmitError = styled.p`
   font-size: 12px;
   color: #ff0b37;
 `
-export const InputLabel = styled.Label`
+export const InputLabel = styled.label`
   font-family: 'Roboto';
   font-size: 12px;
   color: #475569;
@@ -52,7 +52,7 @@ export const UserInput = styled.input`
   outline: none;
   padding: 8px;
   width: 100%;
-  border: 1px solid #94a3b8
+  border: 1px solid #94a3b8;
   border-radius: 4px;
   margin-top: 5px;
 `

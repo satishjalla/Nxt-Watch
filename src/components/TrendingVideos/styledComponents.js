@@ -28,7 +28,7 @@ export const TitleIconContainer = styled.div`
     margin-left: 40px;
   }
 `
-export const TrendingText = styled.hi`
+export const TrendingText = styled.h1`
   font-family: 'Roboto';
   font-size: 25px;
   color: ${props => props.color};
